@@ -1,0 +1,3 @@
+token = "5416737755:AAE8XQ26u3dVc6ErqyZ7da8fijYZZ1PD8Fo"
+user_id = 5187384082
+#user_id2 = 5245737622
